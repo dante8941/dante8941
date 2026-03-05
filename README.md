@@ -66,4 +66,4 @@ Tenho experiência em **desenvolvimento de software, infraestrutura de TI e auto
 
 Se você precisa de alguém para **automatizar processos, desenvolver soluções técnicas ou analisar dados**, estou aberto a **colaborações e projetos profissionais**.
 
-Entre em contato pelo **GitHub** ou pelo meu E-mail comercial: **dantedantasloc@gmailcom**.
+Entre em contato pelo **GitHub** ou pelo meu E-mail comercial: **dantedantasloc@gmail.com**.
