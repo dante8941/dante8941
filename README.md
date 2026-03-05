@@ -1,26 +1,69 @@
-# 👋 Olá, eu sou o Dante!
+# 👋 Olá, eu sou o Dante
 
-🎓 Tenho 21 anos, sou estudante de **Análise e Desenvolvimento de Sitemas**,formado em **Programação Web pela FPF Tech**, **Especialista Técnico em TI pela Academia do Hardware**, E com inglês avançado Pela Wizard. Atuo como desenvolvedor web, suporte de infraestrutura, Hardware e Eletrônica - Sistemas e Recuperação - Redes e
-Infraestrutura – Impressoras - Suporte em Ambientes Corporativos.
+Tenho 21 anos e sou estudante de **Análise e Desenvolvimento de Sistemas**.
 
-## 💻 Tecnologias e habilidades
+Sou formado em **Programação Web pela FPF Tech**, **Especialista Técnico em TI pela Academia do Hardware** e possuo **Inglês Avançado pela Wizard**.
 
-- 🐧 **Linux** e **Shell Script** para automação de sistemas
-- 🐍 **Python**: web scraping, análise de dados, automação
-- ☕ **Java**: aplicações desktop e lógica orientada a objetos
-- 🌐 **Desenvolvimento Web**: HTML, CSS, JavaScript, React, Angular, PHP e APIs REST
-- 🕵️‍♂️ **OSINT**: coleta e cruzamento de dados públicos de forma ética
+Tenho experiência em **desenvolvimento de software, infraestrutura de TI e automação de sistemas**, atuando também com hardware, redes e suporte técnico em ambientes corporativos.
+
+---
+
+## 💻 Tecnologias e Habilidades
+
+### 🐧 Sistemas e Automação
+- Linux (administração de sistemas)
+- Shell Script
+- Automação de tarefas
+
+### 🐍 Programação
+- Python (automação, web scraping e análise de dados)
+- Java (lógica orientada a objetos)
+- PHP
+
+### 🌐 Desenvolvimento Web
+- HTML
+- CSS
+- JavaScript
+- React
+- Angular
+- APIs REST
+
+### 🔐 Segurança e Investigação Digital
+- OSINT (coleta e análise de dados públicos de forma ética)
+- Privacidade e segurança da informação
+
+### 🖥️ Infraestrutura de TI
+- Suporte técnico corporativo
+- Redes e infraestrutura
+- Manutenção de PCs e notebooks
+- Impressoras e periféricos
+- Recuperação de sistemas
+- Linux Server
+- Microsoft Azure
+
+---
 
 ## 🚀 O que eu faço
 
-- Crio **scripts e bots** para automatizar tarefas repetitivas
-- Desenvolvo **ferramentas de análise e extração de dados**
-- Atuo nas áreas de **segurança da informação e privacidade digital, suporte de infraestruturas, manuntenção de PC e Notebook, Desenvolvimento web, Linux Server, Microsoft Azure**
-- Busco oportunidades em projetos desafiadores e éticos
-
-## 📫 Vamos conversar?
-
-Se você precisa de alguém para desenvolver soluções técnicas com responsabilidade, automação ou coleta de dados legais — **conte comigo**.  
-📧 Me mande uma mensagem por aqui ou nas plataformas de freelancer.
+- Desenvolvimento de scripts e bots para automação de tarefas
+- Criação de ferramentas para coleta e análise de dados
+- Desenvolvimento de aplicações web
+- Suporte técnico e administração de infraestrutura de TI
+- Atuação em segurança da informação e privacidade digital
 
 ---
+
+## 📚 Atualmente estudando
+
+- Engenharia de Software
+- Segurança da Informação
+- Pentest e OSINT
+- Desenvolvimento Backend
+
+---
+
+## 📫 Contato
+
+Se você precisa de alguém para **automatizar processos, desenvolver soluções técnicas ou analisar dados**, estou aberto a **colaborações e projetos profissionais**.
+
+Entre em contato pelo **GitHub** ou pelo meu E-mail comercial: **dantedantasloc@gmailcom**.
