@@ -2,7 +2,7 @@
 
 Tenho 21 anos e sou estudante de **Análise e Desenvolvimento de Sistemas**.
 
-Sou formado em **Programação Web pela FPF Tech**, **Especialista Técnico em TI pela Academia do Hardware** e possuo **Inglês Avançado pela Wizard**.
+Sou formado em **Programação Web pela FPF Tech**, **Especialista Técnico em TI pela Academia do Hardware** e possuo **Inglês Fluente pela Wizard**.
 
 Tenho experiência em **desenvolvimento de software, infraestrutura de TI e automação de sistemas**, atuando também com hardware, redes e suporte técnico em ambientes corporativos.
 
